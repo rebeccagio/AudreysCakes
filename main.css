@@ -9,7 +9,7 @@ body{
 
 .header-link, .header-link:visited{
     text-decoration: none;
-    color: inherit;
+    color: black;
 }
 
 #header-title{
