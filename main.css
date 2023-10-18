@@ -45,7 +45,6 @@ body{
 }
 
 
-
 .slider .carousel{
     white-space: nowrap;
     font-size: 0;
@@ -65,8 +64,8 @@ body{
 
 .menu-section{
     background-color: rgb(230, 216, 215);
-    margin: 0;
     text-align: center; 
+    padding: 0.5%;
 }
 
 .label-img{
@@ -183,6 +182,7 @@ footer{
     text-align: center; 
     padding-right: 20%;
     padding-left: 20%;
+    padding-top: 2%;
 }
 
 .faq-p{
@@ -195,5 +195,4 @@ footer{
 
 .faq-header{
     font-size: 20px;
-    padding: 5%;
 }
